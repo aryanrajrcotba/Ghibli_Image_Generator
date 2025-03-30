@@ -1,0 +1,7 @@
+flask
+openai
+pillow
+requests
+gunicorn
+werkzeug
+python-dotenv
