@@ -71,7 +71,7 @@ python app.py
 
 ---
 ## 📸 Screenshots
- ![alt text](/Project_Screenshots/Img0.png) 
+ ![alt text](/Project_Screenshots/Img1.png) 
 
 ---
 **🔹 Enjoy generating Ghibli-style artwork! 🚀**
