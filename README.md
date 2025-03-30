@@ -1,1 +1,1 @@
-# Ghibli_Image_Generator
+# Ghibli Image Generator
